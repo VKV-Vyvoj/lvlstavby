@@ -66,22 +66,22 @@
           <div class="col-lg-4 col-md-6">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-laptop"></i></div>
-              <h4 class="title"><a>Informace k platbě</a></h4>
+              <h4 class="title"><a>TEXT</a></h4>
               <p class="description">Přečtěte si veškeré informace k platbám</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-briefcase"></i></div>
-              <h4 class="title"><a>Ceník</a></h4>
-              <p class="description">Přečtěte si veškeré informace o našich cenách.</p>
+              <h4 class="title"><a>TEXT</a></h4>
+              <p class="description">TEXT</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-              <h4 class="title"><a>Bazar</a></h4>
-              <p class="description">Občas nám zbydou pěkné kousky, které by mohli ještě posloužit, mrkněte.</p>
+              <h4 class="title"><a>TEXT</a></h4>
+              <p class="description">TEXT</p>
             </div>
           </div>
         </div>
