@@ -80,7 +80,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-              <h4 class="title">Bazar</a></h4>
+              <h4 class="title"><a>Bazar</a></h4>
               <p class="description">Občas nám zbydou pěkné kousky, které by mohli ještě posloužit, mrkněte.</p>
             </div>
           </div>
