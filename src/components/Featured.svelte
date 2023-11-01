@@ -67,7 +67,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bi bi-laptop"></i></div>
               <h4 class="title"><a>TEXT</a></h4>
-              <p class="description">Přečtěte si veškeré informace k platbám</p>
+              <p class="description"></p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">

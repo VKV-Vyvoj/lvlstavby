@@ -5,7 +5,7 @@
         <div class="col-lg-9 text-center text-lg-start">
           <h3>Máte rychlý dotaz?</h3>
           <p>
-           R+SERVIS
+          
           </p>
         </div>
         <div class="col-lg-3 cta-btn-container text-center">
